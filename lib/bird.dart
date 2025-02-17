@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 class MyBird extends StatelessWidget {
 
   @override
+  //poner la imagen del flappy bird
   Widget build(BuildContext context) {
     return Container(
       height: 90,

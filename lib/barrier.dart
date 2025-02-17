@@ -9,6 +9,7 @@ MyBarrier({this.size});
 
 
   @override
+  //para poner las barreras del juego
   Widget build(BuildContext context) {
     return Container(
       width: 100,
